@@ -1,0 +1,17 @@
+{
+  "empresa": "R-Car Motors",
+  "categoria": "Oficina mecânica",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "nota": "4,5",
+  "avaliacoes": 56,
+  "temas": ["equipe", "preço", "honestidade", "respeito"],
+  "telefone": "5561981801217",
+  "whatsapp": true,
+  "endereco": "Rua e número: preencher com você · CEP 71686-000 · Brasília-DF",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=R-Car+Motors&query_place_id=ChIJDSaTIp0jWpMR-BIetucLU8s",
+  "horario": [["Segunda a sexta", "a partir das 08:00 (confirmar)"], ["Sábado", "confirmar com você"], ["Domingo", "confirmar com você"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#7c3aed"
+}
