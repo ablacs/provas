@@ -1,0 +1,17 @@
+{
+  "empresa": "Revisauto Oficina Mecânica",
+  "categoria": "Oficina mecânica e autoelétrica",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "nota": "4,5",
+  "avaliacoes": 47,
+  "temas": ["confiança", "preço"],
+  "telefone": "5561996483432",
+  "whatsapp": true,
+  "endereco": "Condomínio Portal do Lago Sul, lote 11, loja 13 · Jardim Botânico · Brasília-DF, 71680-363",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Revisauto+Oficina+Mecânica&query_place_id=ChIJa-Yt3N0jWpMRyEJ0sSNhYWE",
+  "horario": [["Segunda a sexta", "08:00 às 18:00"], ["Sábado", "08:00 às 12:00"], ["Domingo", "Fechado"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#2563eb"
+}

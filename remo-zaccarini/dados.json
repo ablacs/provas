@@ -1,0 +1,17 @@
+{
+  "empresa": "Mecânico Remo Zaccarini",
+  "categoria": "Mecânica para carros",
+  "bairro": "São Sebastião",
+  "local": "em São Sebastião",
+  "nota": "5,0",
+  "avaliacoes": 82,
+  "temas": ["confiança", "honestidade", "preço", "rapidez"],
+  "telefone": "5561981399092",
+  "whatsapp": true,
+  "endereco": "Quadra 24, conjunto 03, lote 05 · Residencial Bosque, São Sebastião · Brasília-DF, 71694-022",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Mecânico+São+Sebastião+DF+Remo+Zaccarini",
+  "horario": [["Segunda a sexta", "Atendimento 24 horas"], ["Sábado", "Fechado"], ["Domingo", "Fechado"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#d9480f"
+}

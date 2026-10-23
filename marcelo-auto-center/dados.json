@@ -1,0 +1,17 @@
+{
+  "empresa": "Marcelo Auto Center",
+  "categoria": "Oficina mecânica",
+  "bairro": "Tororó, Jardim Botânico",
+  "local": "no Tororó, Jardim Botânico",
+  "nota": "4,9",
+  "avaliacoes": 47,
+  "temas": ["preço justo", "confiança", "honestidade"],
+  "telefone": "5561983589115",
+  "whatsapp": true,
+  "endereco": "DF-140, km 2,5 · Setor Habitacional Tororó, Jardim Botânico · Brasília-DF, 71684-130",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Marcelo+Auto+Center+Tororó+Brasília",
+  "horario": [["Segunda a sexta", "08:00 às 18:00"], ["Sábado", "08:00 às 12:00"], ["Domingo", "Fechado"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#e8a317"
+}
