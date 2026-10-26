@@ -1,0 +1,31 @@
+{
+  "empresa": "Extreme Car Lava Jato",
+  "categoria": "Lava jato",
+  "bairro": "São Sebastião",
+  "local": "em São Sebastião",
+  "titulo_fotos": "O lava jato",
+  "nota": "4,8",
+  "avaliacoes": 95,
+  "temas": [],
+  "telefone": "5561994116173",
+  "whatsapp": true,
+  "endereco": "Quadra 1 Conjunto 10 Lote 16 PRODF · São Sebastião · Brasília-DF, 71698-028",
+  "mapa": "https://www.google.com/maps/place/Extreme+Car+Lava+Jato/data=!4m7!3m6!1s0x935a21fdf339e1af:0x77c801260b6f227!8m2!3d-15.9059604!4d-47.7832937!16s%2Fg%2F11hnw_hqq6!19sChIJr-E58_0hWpMRJ_K2YBKAfAc?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 17:30"
+    ],
+    [
+      "Sábado",
+      "08:00 às 17:30"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#0369a1"
+}

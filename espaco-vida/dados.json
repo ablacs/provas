@@ -1,0 +1,34 @@
+{
+  "empresa": "Espaço Vida Fisioterapia e Pilates",
+  "categoria": "Fisioterapia e pilates",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "A clínica",
+  "nota": "4,7",
+  "avaliacoes": 145,
+  "temas": [],
+  "telefone": "5561986666251",
+  "whatsapp": true,
+  "endereco": "SH Jardim Botânico Condomínio Solar de Brasília Q 2 Area Comercial, Bloco A Sala 205 · Jardim Botânico · Brasília-DF, 71680-349",
+  "mapa": "https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+e+Pilates+Espa%C3%A7o+Vida+%2F+Jardim+Bot%C3%A2nico+%2F+Bras%C3%ADlia-DF/data=!4m7!3m6!1s0x935a236a1257f873:0xa2ef39634700538f!8m2!3d-15.8512137!4d-47.8151612!16s%2Fg%2F11h8z3gbpr!19sChIJc_hXEmojWpMRj1MAR2M576I?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "Fechado"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Fisioterapia",
+    "Pilates"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0f766e"
+}

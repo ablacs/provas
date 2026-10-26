@@ -1,0 +1,35 @@
+{
+  "empresa": "Du Pará",
+  "categoria": "Restaurante de comida paraense",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O restaurante",
+  "nota": "4,5",
+  "avaliacoes": 185,
+  "temas": [],
+  "telefone": "5561998871643",
+  "whatsapp": true,
+  "endereco": "Polo de Artesanato - Loja 05 · Jardim Botânico · Brasília-DF, 71686-100",
+  "mapa": "https://www.google.com/maps/place/Du+Par%C3%A1+-+Jardim+Bot%C3%A2nico/data=!4m7!3m6!1s0x935a23000072daeb:0x5e0261d679ce70d3!8m2!3d-15.8690675!4d-47.8226057!16s%2Fg%2F11yyjp2d6l!19sChIJ69pyAAAjWpMR03DOedZhAl4?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda",
+      "Fechado"
+    ],
+    [
+      "Terça a sexta",
+      "11:30 às 21:00"
+    ],
+    [
+      "Sábado",
+      "11:30 às 20:30"
+    ],
+    [
+      "Domingo",
+      "11:30 às 20:30"
+    ]
+  ],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#b45309"
+}

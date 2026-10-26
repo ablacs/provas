@@ -1,0 +1,34 @@
+{
+  "empresa": "PoliXcar Estética Automotiva",
+  "categoria": "Estética automotiva",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "Os carros",
+  "nota": "5,0",
+  "avaliacoes": 100,
+  "temas": [],
+  "telefone": "5561984129592",
+  "whatsapp": true,
+  "endereco": "Condomínio Quintas do Sol · Jardim Botânico · Brasília-DF, 71680-370",
+  "mapa": "https://www.google.com/maps/place/PoliXcar+Est%C3%A9tica+Automotiva+-+Polimento+e+Vitrifica%C3%A7%C3%A3o/data=!4m7!3m6!1s0x935a2301010356af:0x9c572b2fc08852ed!8m2!3d-15.8695688!4d-47.7973419!16s%2Fg%2F11nxqdsdb1!19sChIJr1YDAQEjWpMR7VKIwC8rV5w?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "09:00 às 17:00"
+    ],
+    [
+      "Domingo",
+      "09:00 às 17:00"
+    ]
+  ],
+  "servicos": [
+    "Polimento",
+    "Vitrificação"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#b91c1c"
+}

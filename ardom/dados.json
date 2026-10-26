@@ -1,0 +1,35 @@
+{
+  "empresa": "Salão e Barbearia Ardom",
+  "categoria": "Salão de beleza e barbearia",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O salão",
+  "nota": "4,4",
+  "avaliacoes": 196,
+  "temas": [],
+  "telefone": "5561981892600",
+  "whatsapp": true,
+  "endereco": "Condomínio San Diego · Jardim Botânico · Brasília-DF, 71680-362",
+  "mapa": "https://www.google.com/maps/place/Sal%C3%A3o+de+beleza+e+Barbearia+Ardom/data=!4m7!3m6!1s0x935a23dd2c38d569:0x12484e8ffc8a7fe!8m2!3d-15.8684296!4d-47.8211793!16s%2Fg%2F11g7z9yz07!19sChIJadU4LN0jWpMR_qfI_-iEJAE?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:30 às 19:00"
+    ],
+    [
+      "Sábado",
+      "08:30 às 19:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Salão de beleza",
+    "Barbearia",
+    "Manicure"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#7c3aed"
+}

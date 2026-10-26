@@ -1,0 +1,35 @@
+{
+  "empresa": "Espaço Leveza",
+  "categoria": "Esmalteria, cabelos e estética",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O espaço",
+  "nota": "4,9",
+  "avaliacoes": 76,
+  "temas": [],
+  "telefone": "5561995150909",
+  "whatsapp": true,
+  "endereco": "Jardim Botânico Shopping 1º andar · Jardim Botânico · Brasília-DF, 71680-362",
+  "mapa": "https://www.google.com/maps/place/Espa%C3%A7o+Leveza+Esmalteria+Cabelos+Est%C3%A9tica/data=!4m7!3m6!1s0x935a23e8bff07795:0xd4365d269ff82399!8m2!3d-15.8684307!4d-47.8211787!16s%2Fg%2F11t82_hth7!19sChIJlXfwv-gjWpMRmSP4nyZdNtQ?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "09:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "09:00 às 18:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Esmalteria",
+    "Cabelos",
+    "Estética"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#db2777"
+}

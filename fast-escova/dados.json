@@ -1,0 +1,31 @@
+{
+  "empresa": "Fast Escova Jardim Botânico",
+  "categoria": "Salão de beleza",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O salão",
+  "nota": "4,7",
+  "avaliacoes": 197,
+  "temas": [],
+  "telefone": "5561999963002",
+  "whatsapp": true,
+  "endereco": "Setor Pólo de Artesanato, QI 23 Loja Fast Escova, lote 11 · Jardim Botânico · Brasília-DF, 71686-100",
+  "mapa": "https://www.google.com/maps/place/Fast+Escova+Jardim+Bot%C3%A2nico/data=!4m7!3m6!1s0x935a230a35f6d87f:0x8355a79e3f592eea!8m2!3d-15.8695993!4d-47.8227863!16s%2Fg%2F11vxyj2g0q!19sChIJf9j2NQojWpMR6i5ZP56nVYM?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 20:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 20:00"
+    ],
+    [
+      "Domingo",
+      "09:00 às 17:00"
+    ]
+  ],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#be185d"
+}

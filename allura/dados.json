@@ -1,0 +1,35 @@
+{
+  "empresa": "Allura Esquadrias e Construções",
+  "categoria": "Vidraçaria e esquadrias",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "4,9",
+  "avaliacoes": 114,
+  "temas": [],
+  "telefone": "5561995034004",
+  "whatsapp": true,
+  "endereco": "Quinhão 10 Gleba, 27 - lote 01A · Jardim Botânico · Brasília-DF, 71689899",
+  "mapa": "https://www.google.com/maps/place/Allura+Esquadrias+e+Constru%C3%A7%C3%B5es/data=!4m7!3m6!1s0x935a21ec0860ecc9:0x8e247b07ae59832!8m2!3d-15.8820625!4d-47.7755755!16s%2Fg%2F11tsm550v2!19sChIJyexgCOwhWpMRMpjlerBH4gg?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "Fechado"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Esquadrias",
+    "Vidraçaria",
+    "Portas em ACM sob medida"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#1d4ed8"
+}

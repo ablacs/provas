@@ -1,0 +1,31 @@
+{
+  "empresa": "XAMÃ Veterinária",
+  "categoria": "Clínica veterinária",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "A clínica",
+  "nota": "4,9",
+  "avaliacoes": 54,
+  "temas": [],
+  "telefone": "5561992509965",
+  "whatsapp": true,
+  "endereco": "Polo de Artesanato - Loja 20 B · Jardim Botânico · Brasília-DF, 71679-600",
+  "mapa": "https://www.google.com/maps/place/XAM%C3%83+VETERIN%C3%81RIA+JARDIM+BOT%C3%82NICO/data=!4m7!3m6!1s0x935a2514cb404fc9:0x387fd78eda7d222b!8m2!3d-15.8692665!4d-47.8226915!16s%2Fg%2F11nh0gqr5s!19sChIJyU9AyxQlWpMRKyJ92o7Xfzg?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 19:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 17:30"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#15803d"
+}

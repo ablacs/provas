@@ -1,0 +1,31 @@
+{
+  "empresa": "Ponto Vet",
+  "categoria": "Clínica veterinária",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "A clínica",
+  "nota": "4,8",
+  "avaliacoes": 33,
+  "temas": [],
+  "telefone": "5561996729093",
+  "whatsapp": true,
+  "endereco": "SH Estrada do Sol Residencial Itaipu · Jardim Botânico · Brasília-DF, 71680-374",
+  "mapa": "https://www.google.com/maps/place/Cl%C3%ADnica+veterin%C3%A1ria+Ponto+Vet/data=!4m7!3m6!1s0x935a215bb2e85397:0xa61e23d3e56f1795!8m2!3d-15.8807059!4d-47.7778539!16s%2Fg%2F11t_py9v4w!19sChIJl1PoslshWpMRlRdv5dMjHqY?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 17:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#0e7490"
+}
