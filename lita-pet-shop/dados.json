@@ -1,0 +1,18 @@
+{
+  "empresa": "Lita Pet Shop",
+  "categoria": "Pet shop",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O pet shop",
+  "nota": "4,9",
+  "avaliacoes": 53,
+  "temas": [],
+  "telefone": "5561983074549",
+  "whatsapp": true,
+  "endereco": "Condomínio Jardim Botânico VI · Jardim Botânico · Brasília-DF",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Lita+Pet+Shop+Jardim+Botânico",
+  "horario": [["Segunda a sexta", "08:00 às 17:00"], ["Sábado", "08:00 às 14:00"], ["Domingo", "Fechado"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#db2777"
+}

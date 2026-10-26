@@ -1,0 +1,18 @@
+{
+  "empresa": "PetVet",
+  "categoria": "Pet shop e veterinário em domicílio",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "O PetVet",
+  "nota": "5,0",
+  "avaliacoes": 42,
+  "temas": [],
+  "telefone": "5561992549884",
+  "whatsapp": true,
+  "endereco": "Condomínio Solar de Brasília, Quadra 3 · Jardim Botânico · Brasília-DF",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=PetVet+Banho+e+tosa+Solar+de+Brasília",
+  "horario": [["Segunda a sexta", "09:00 às 18:00"], ["Sábado", "Fechado"], ["Domingo", "Fechado"]],
+  "servicos": ["Banho e tosa", "Veterinário em domicílio", "Vacinas", "Exames"],
+  "dono": "Arthur Brisola",
+  "cor": "#0e7490"
+}

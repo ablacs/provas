@@ -1,0 +1,18 @@
+{
+  "empresa": "Barbearia JK",
+  "categoria": "Barbearia",
+  "bairro": "Jardim Botânico",
+  "local": "no Jardim Botânico",
+  "titulo_fotos": "A barbearia",
+  "nota": "5,0",
+  "avaliacoes": 102,
+  "temas": [],
+  "telefone": "5561991910608",
+  "whatsapp": true,
+  "endereco": "Condomínio Solar de Brasília, Quadra 2, Bloco C, lote 3, loja 4 (comércio da Pão Dourado) · Jardim Botânico · Brasília-DF",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Barbearia+JK+Solar+de+Brasília+Jardim+Botânico",
+  "horario": [["Segunda a sexta", "08:00 às 19:00"], ["Sábado", "08:00 às 18:00"], ["Domingo", "Fechado"]],
+  "servicos": [],
+  "dono": "Arthur Brisola",
+  "cor": "#b45309"
+}
