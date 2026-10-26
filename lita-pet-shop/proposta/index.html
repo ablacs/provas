@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Lita Pet Shop · Proposta</title>
+<style>
+  :root { --cor:#db2777; --escuro:#16181d; --texto:#1d1f24; --mudo:#5d6270; --fundo:#f6f5f2; --cartao:#fff; --borda:#e4e2dc; --verde:#15803d; --alerta:#b45309; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--texto); background:var(--fundo); }
+  header { background:var(--escuro); color:#fff; padding:36px 20px 28px; }
+  header > div, main { max-width:760px; margin:0 auto; }
+  .faixa { width:48px; height:4px; background:var(--cor); border-radius:2px; margin-bottom:16px; }
+  h1 { font-size:clamp(1.6rem, 6vw, 2.3rem); line-height:1.15; margin:0 0 8px; }
+  header p { margin:0; color:#c9ccd4; }
+  main { padding:8px 20px 48px; }
+  section { margin-top:32px; }
+  h2 { font-size:1.2rem; margin:0 0 12px; }
+  .bom { display:flex; gap:10px; flex-wrap:wrap; }
+  .bom div { flex:1 1 140px; background:var(--cartao); border:1px solid var(--borda); border-radius:12px; padding:14px; }
+  .bom b { display:block; font-size:1.5rem; color:var(--verde); }
+  ol.problemas { padding:0; margin:0; list-style:none; counter-reset:p; display:grid; gap:10px; }
+  ol.problemas li { counter-increment:p; background:var(--cartao); border:1px solid var(--borda); border-left:4px solid var(--alerta); border-radius:10px; padding:14px 14px 14px 48px; position:relative; }
+  ol.problemas li::before { content:counter(p); position:absolute; left:14px; top:14px; width:24px; height:24px; border-radius:50%; background:var(--alerta); color:#fff; font-weight:700; font-size:.85rem; display:grid; place-items:center; }
+  ol.problemas b { display:block; }
+  ol.problemas span { color:var(--mudo); font-size:.93rem; }
+  .planos { display:grid; gap:12px; }
+  .plano { background:var(--cartao); border:1px solid var(--borda); border-radius:14px; padding:18px; position:relative; }
+  .plano.rec { border:2px solid var(--cor); }
+  .selo { position:absolute; top:-11px; left:16px; background:var(--cor); color:#fff; font-size:.75rem; font-weight:700; padding:2px 10px; border-radius:99px; }
+  .plano h3 { margin:0 0 4px; font-size:1.1rem; }
+  .preco { font-size:1.6rem; font-weight:800; }
+  .preco small { font-size:.95rem; font-weight:600; color:var(--mudo); }
+  .plano ul { margin:12px 0 0; padding-left:20px; }
+  .plano li { margin:4px 0; }
+  .passos { counter-reset:s; padding:0; margin:0; list-style:none; display:grid; gap:8px; }
+  .passos li { counter-increment:s; background:var(--cartao); border:1px solid var(--borda); border-radius:10px; padding:12px 14px; }
+  .passos li::before { content:counter(s) ". "; font-weight:700; color:var(--cor); }
+  .nota { font-size:.88rem; color:var(--mudo); }
+  footer { text-align:center; font-size:.85rem; color:var(--mudo); padding:0 20px 40px; }
+  @media (min-width:720px) { .planos { grid-template-columns:repeat(3, 1fr); align-items:start; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="faixa"></div>
+    <h1>Lita Pet Shop no Google</h1>
+    <p>Diagnóstico e proposta · preparado por Arthur Brisola · 26/10/2026</p>
+  </div>
+</header>
+<main>
+  <section>
+    <h2>O que já está muito bom</h2>
+    <div class="bom">
+      <div><b>4,9 ★</b>nota no Google</div>
+      <div><b>53</b>avaliações</div>
+      <div><b>784</b>fotos no perfil</div>
+    </div>
+    <p class="nota">O Google é a maior vitrine de vocês: o Instagram tem 94 seguidores. Quem procura "pet shop" ou "banho e tosa" no Jardim Botânico encontra vocês primeiro pelo Google.</p>
+  </section>
+
+  <section>
+    <h2>O que está atrapalhando hoje</h2>
+    <ol class="problemas">
+      <li><b>O "site" no Google leva a uma página quebrada.</b><span>O botão Website aponta para o Instagram @happy_dogbsb, que mostra "perfil não disponível". Quem clica sai sem informação.</span></li>
+      <li><b>Horários diferentes em cada lugar.</b><span>No Google: 8h às 17h. No Instagram: 8h30 às 17h30. Cliente que chega às 17h10 pode encontrar fechado ou desistir de ir.</span></li>
+      <li><b>Dois WhatsApps diferentes.</b><span>O Google mostra (61) 98307-4549 e o Instagram mostra (12) 98141-8858. Nem todo cliente sabe qual usar.</span></li>
+      <li><b>Os serviços não aparecem no Google.</b><span>Banho e tosa e Táxi Dog estão só no Instagram. No Google, quem procura "táxi dog Jardim Botânico" não encontra vocês.</span></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Três formas de resolver</h2>
+    <div class="planos">
+      <div class="plano">
+        <h3>Essencial</h3>
+        <div class="preco">R$450 <small>+ R$60/mês</small></div>
+        <ul>
+          <li>Página da loja com endereço próprio (ex.: litapetshop.com.br)</li>
+          <li>Perfil do Google corrigido: site, horário, WhatsApp, serviços e descrição</li>
+          <li>Mensal: hospedagem e ajustes quando pedirem</li>
+        </ul>
+      </div>
+      <div class="plano rec">
+        <span class="selo">Recomendado</span>
+        <h3>Presença no Google</h3>
+        <div class="preco">R$800 <small>+ R$150/mês</small></div>
+        <ul>
+          <li>Tudo do Essencial</li>
+          <li>Mesmas informações no Google, Apple Maps, Bing e Waze</li>
+          <li>Página preparada para buscas locais e para aparecer em respostas de assistentes como ChatGPT e Gemini (perguntas frequentes, serviços e endereço organizados)</li>
+          <li>Kit de avaliações: QR code para o balcão e mensagem pronta para pedir avaliação</li>
+          <li>Todo mês: 4 posts no Google, resposta às avaliações, atualizações e um relatório com ligações, pedidos de rota e visualizações</li>
+        </ul>
+      </div>
+      <div class="plano">
+        <h3>Crescimento</h3>
+        <div class="preco">R$1.200 <small>+ R$300/mês</small></div>
+        <ul>
+          <li>Tudo do Presença no Google</li>
+          <li>Agendamento de banho e tosa e de Táxi Dog por link</li>
+          <li>Catálogo de serviços com preços na página</li>
+          <li>Todo mês: mensagem para trazer de volta clientes que não aparecem há mais de 60 dias</li>
+        </ul>
+      </div>
+    </div>
+    <p class="nota">O endereço do site (cerca de R$40 por ano) fica registrado no nome de vocês. Mensalidade sem fidelidade: dá para cancelar quando quiser. Ninguém consegue garantir a primeira posição no Google; o que eu garanto é o trabalho feito todo mês e o relatório com os números.</p>
+  </section>
+
+  <section>
+    <h2>Como funciona</h2>
+    <ol class="passos">
+      <li>Vocês escolhem o plano e pagam metade da implantação por Pix.</li>
+      <li>Me mandam fotos da loja e a lista de serviços com preços (se quiserem mostrar).</li>
+      <li>Em até 3 dias a página está no ar e o Google corrigido. Vocês me adicionam como gerente do perfil, sem precisar passar senha.</li>
+      <li>Pagam a outra metade quando estiver tudo no ar. A mensalidade começa no mês seguinte.</li>
+    </ol>
+  </section>
+</main>
+<footer>Arthur Brisola · morador do Jardim Botânico · Brasília</footer>
+</body>
+</html>
