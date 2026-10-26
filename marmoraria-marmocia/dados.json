@@ -1,0 +1,19 @@
+{
+  "empresa": "Marmoraria Marmocia",
+  "categoria": "Marmoraria",
+  "bairro": "Vicente Pires",
+  "local": "em Vicente Pires",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "4,7",
+  "avaliacoes": 126,
+  "temas": ["preço justo", "atendimento", "acabamento", "entrega no prazo"],
+  "telefone": "556135816484",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "Rua 3C · St. Hab. Vicente Pires · Brasília-DF, 72005-505",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Marmoraria+Marmocia+Vicente+Pires",
+  "horario": [["Segunda a quinta", "08:00–12:00 e 13:00–17:30"], ["Sexta", "08:00–12:00 e 13:00–16:30"], ["Sábado", "08:00 às 12:00"], ["Domingo", "Fechado"]],
+  "servicos": ["Mármores", "Granitos", "Quartzos", "Lâmina ultracompacta", "Cuba esculpida", "Cuba de piso em quartzo"],
+  "dono": "Arthur Brisola",
+  "cor": "#b08d57"
+}

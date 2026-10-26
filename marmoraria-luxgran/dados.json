@@ -1,0 +1,19 @@
+{
+  "empresa": "Marmoraria Luxgran",
+  "categoria": "Marmoraria",
+  "bairro": "Vicente Pires",
+  "local": "em Vicente Pires",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "4,5",
+  "avaliacoes": 16,
+  "temas": ["entrega rápida", "atendimento", "bons preços", "material"],
+  "telefone": "5561992899510",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "Colônia Agrícola 26 de Setembro · Vicente Pires · Brasília-DF",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=M%C3%A1rmoraria+Luxgran+Vicente+Pires",
+  "horario": [["Segunda a quinta", "08:00 às 17:30"], ["Sexta", "08:00 às 16:30"], ["Sábado", "08:00 às 12:00"], ["Domingo", "Fechado"]],
+  "servicos": ["Bancadas de cozinha", "Lavatórios para banheiro", "Mármores e granitos nacionais e importados", "Rochas naturais e sintéticas"],
+  "dono": "Arthur Brisola",
+  "cor": "#9ca3af"
+}

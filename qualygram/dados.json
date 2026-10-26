@@ -1,0 +1,19 @@
+{
+  "empresa": "Qualygram Mármores e Granitos",
+  "categoria": "Marmoraria",
+  "bairro": "26 de Setembro",
+  "local": "na 26 de Setembro",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "5,0",
+  "avaliacoes": 16,
+  "temas": ["prazo cumprido", "atendimento", "trabalho impecável"],
+  "telefone": "5561983625652",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "Avenida Principal, chácara 28, lote 12 · Colônia Agrícola 26 de Setembro · Brasília-DF, 72127-991",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Qualygram+m%C3%A1rmores+e+granitos",
+  "horario": [["Segunda a quinta", "07:00 às 17:00"], ["Sexta", "07:00 às 16:00"], ["Sábado", "Fechado"], ["Domingo", "Fechado"]],
+  "servicos": ["Mármore travertino romano", "Revestimento travertino rock face", "Recepção em travertino", "Mármores e granitos"],
+  "dono": "Arthur Brisola",
+  "cor": "#8a6f4e"
+}
