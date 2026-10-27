@@ -30,10 +30,17 @@
   .plano.rec { border:2px solid var(--cor); }
   .selo { position:absolute; top:-11px; left:16px; background:var(--cor); color:#fff; font-size:.75rem; font-weight:700; padding:2px 10px; border-radius:99px; }
   .plano h3 { margin:0 0 4px; font-size:1.1rem; }
+  .plano .para { color:var(--mudo); font-size:.9rem; margin:0 0 8px; }
   .preco { font-size:1.6rem; font-weight:800; }
   .preco small { font-size:.95rem; font-weight:600; color:var(--mudo); }
   .plano ul { margin:12px 0 0; padding-left:20px; }
   .plano li { margin:4px 0; }
+  .avulso { background:var(--cartao); border:1px dashed var(--borda); border-radius:12px; padding:14px 16px; margin-top:12px; }
+  .avulso p { margin:4px 0; }
+  .garantias { display:grid; gap:10px; }
+  .garantias div { background:var(--cartao); border:1px solid var(--borda); border-left:4px solid var(--verde); border-radius:10px; padding:12px 14px; }
+  .garantias b { display:block; }
+  .garantias span { color:var(--mudo); font-size:.93rem; }
   .passos { counter-reset:s; padding:0; margin:0; list-style:none; display:grid; gap:8px; }
   .passos li { counter-increment:s; background:var(--cartao); border:1px solid var(--borda); border-radius:10px; padding:12px 14px; }
   .passos li::before { content:counter(s) ". "; font-weight:700; color:var(--cor); }
@@ -46,75 +53,99 @@
 <header>
   <div>
     <div class="faixa"></div>
-    <h1>Lita Pet Shop no Google</h1>
-    <p>Diagnóstico e proposta · preparado por Arthur Brisola · 26/10/2026</p>
+    <h1>Lita, você cuida dos bichinhos. Eu cuido do resto.</h1>
+    <p>Proposta para a Lita Pet Shop · preparada por Arthur Brisola · 27/10/2026</p>
   </div>
 </header>
 <main>
   <section>
-    <h2>O que já está muito bom</h2>
+    <h2>O que vocês já têm de melhor</h2>
     <div class="bom">
-      <div><b>4,9 ★</b>nota no Google</div>
-      <div><b>53</b>avaliações</div>
-      <div><b>784</b>fotos no perfil</div>
+      <div><b>30 anos</b>de história no cuidado pet</div>
+      <div><b>4,9 ★</b>com 53 avaliações no Google</div>
+      <div><b>1.549</b>seguidores no Instagram</div>
     </div>
-    <p class="nota">E mais: 30 anos de história e 1.549 seguidores no Instagram (@_lita_pet). Quem já conhece vocês acompanha por lá. Quem ainda não conhece procura "pet shop" ou "banho e tosa" no Google, e é lá que a primeira impressão acontece.</p>
+    <p class="nota">Isso ninguém compra pronto. O que falta é a internet mostrar isso direito, sem você precisar parar o seu dia para cuidar disso.</p>
   </section>
 
   <section>
-    <h2>O que está atrapalhando hoje</h2>
+    <h2>O que você me contou</h2>
     <ol class="problemas">
-      <li><b>O "site" no Google leva a uma página quebrada.</b><span>O botão Website aponta para o Instagram @happy_dogbsb, que mostra "perfil não disponível". Quem clica sai sem informação e nunca chega ao Instagram de vocês, com 501 posts de antes e depois, clientes e promoções.</span></li>
-      <li><b>Os serviços não aparecem no Google.</b><span>Banho e tosa e Táxi Dog estão no Instagram, mas no Google quem procura "táxi dog Jardim Botânico" não encontra vocês.</span></li>
-      <li><b>A história da loja não aparece para quem não conhece.</b><span>"30 anos de história no cuidado pet" é um ótimo motivo para escolher vocês, mas só aparece para quem já segue o Instagram. No Google não há descrição contando isso.</span></li>
+      <li><b>O Google ainda mostra fotos da Happy Dog.</b><span>E o botão "Website" leva para um Instagram antigo (@happy_dogbsb) que nem existe mais. Quem procura a Lita fica confuso.</span></li>
+      <li><b>Faltam artes para o status do WhatsApp.</b><span>É onde seus clientes já estão todo dia, e hoje fica parado.</span></li>
+      <li><b>O Instagram tem poucos posts e poucas visualizações.</b><span>Os banhos e tosas lindos que vocês fazem todo dia não estão aparecendo.</span></li>
     </ol>
   </section>
 
   <section>
-    <h2>Três formas de resolver</h2>
+    <h2>Sobre as fotos da Happy Dog: dá para resolver</h2>
+    <p>Fotos que a própria loja colocou no Google podem ser apagadas por quem administra o perfil. Fotos que clientes colocaram não podem ser apagadas direto, mas dá para pedir a remoção ao Google uma por uma, explicando que são de outra loja, e o Google costuma aceitar. Junto com isso, troco a foto de capa e o logo e coloco fotos novas da Lita, que passam a aparecer primeiro.</p>
+    <p class="nota">O primeiro passo é conferir quem é o proprietário do perfil no Google. Ele precisa estar no seu nome, Lita, e não no de outra pessoa.</p>
+  </section>
+
+  <section>
+    <h2>Três formas de eu te ajudar</h2>
     <div class="planos">
       <div class="plano">
-        <h3>Essencial</h3>
-        <div class="preco">R$450 <small>+ R$60/mês</small></div>
+        <h3>Arrumar de uma vez</h3>
+        <p class="para">Para deixar tudo certo, sem mensalidade.</p>
+        <div class="preco">R$700 <small>uma vez</small></div>
         <ul>
-          <li>Página da loja com endereço próprio (ex.: litapetshop.com.br)</li>
-          <li>Perfil do Google corrigido: site, horário, WhatsApp, serviços e descrição</li>
-          <li>Mensal: hospedagem e ajustes quando pedirem</li>
+          <li>Google arrumado: fotos da Happy Dog removidas ou pedidas para remoção, capa e logo da Lita, site certo, serviços, Táxi Dog, horário e a história de 30 anos na descrição</li>
+          <li>Site da Lita com fotos reais da loja e endereço próprio (ex.: litapetshop.com.br)</li>
+          <li>QR code de avaliação para o balcão</li>
+        </ul>
+      </div>
+      <div class="plano">
+        <h3>Google e site sempre em dia</h3>
+        <p class="para">Para o Google nunca mais ficar desatualizado.</p>
+        <div class="preco">R$800 <small>+ R$150/mês</small></div>
+        <ul>
+          <li>Tudo do "Arrumar de uma vez"</li>
+          <li>Mesmas informações no Google, Apple Maps, Bing e Waze</li>
+          <li>Todo mês: 4 posts no Google, resposta a todas as avaliações e atualização de fotos e promoções</li>
+          <li>Relatório mensal com quantas pessoas ligaram, pediram rota e viram a loja</li>
         </ul>
       </div>
       <div class="plano rec">
-        <span class="selo">Recomendado</span>
-        <h3>Presença no Google</h3>
-        <div class="preco">R$800 <small>+ R$150/mês</small></div>
+        <span class="selo">Recomendado para você</span>
+        <h3>Lita sem preocupação</h3>
+        <p class="para">Google, Instagram e WhatsApp comigo. Você só manda as fotos.</p>
+        <div class="preco">R$800 <small>+ R$550/mês</small></div>
         <ul>
-          <li>Tudo do Essencial</li>
-          <li>Mesmas informações no Google, Apple Maps, Bing e Waze</li>
-          <li>Página preparada para buscas locais e para aparecer em respostas de assistentes como ChatGPT e Gemini (perguntas frequentes, serviços e endereço organizados)</li>
-          <li>Kit de avaliações: QR code para o balcão e mensagem pronta para pedir avaliação</li>
-          <li>Todo mês: 4 posts no Google, resposta às avaliações, atualizações e um relatório com ligações, pedidos de rota e visualizações</li>
-        </ul>
-      </div>
-      <div class="plano">
-        <h3>Crescimento</h3>
-        <div class="preco">R$1.200 <small>+ R$300/mês</small></div>
-        <ul>
-          <li>Tudo do Presença no Google</li>
-          <li>Agendamento de banho e tosa e de Táxi Dog por link</li>
-          <li>Catálogo de serviços com preços na página</li>
-          <li>Todo mês: mensagem para trazer de volta clientes que não aparecem há mais de 60 dias</li>
+          <li>Tudo do "Google e site sempre em dia"</li>
+          <li>Instagram: 12 posts por mês, com legenda, feitos com as fotos e vídeos que você já tira dos banhos</li>
+          <li>WhatsApp: 3 artes por semana prontas para o status (promoções, Táxi Dog, datas especiais)</li>
+          <li>Calendário do mês combinado com você: Dia das Mães de pet, Black Friday, Natal, vacinação</li>
+          <li>Você manda as fotos pelo WhatsApp quando der. Eu escolho, edito, escrevo, posto e te mando as artes prontas</li>
         </ul>
       </div>
     </div>
-    <p class="nota">O endereço do site (cerca de R$40 por ano) fica registrado no nome de vocês. Mensalidade sem fidelidade: dá para cancelar quando quiser. Ninguém consegue garantir a primeira posição no Google; o que eu garanto é o trabalho feito todo mês e o relatório com os números.</p>
+    <div class="avulso">
+      <p><b>Para começar já, sem trocar ninguém:</b> artes para o status do WhatsApp, 3 por semana, por <b>R$200/mês</b>. Não mexe no trabalho de quem já te atende.</p>
+      <p><b>Separado:</b> só o Google arrumado, R$300. Só o site, R$500.</p>
+    </div>
+    <p class="nota">O endereço do site (cerca de R$40 por ano) é registrado no seu nome. Não prometo número de visualizações nem primeira posição no Google, porque ninguém consegue garantir isso. O que eu garanto é o trabalho feito todo mês e os números no relatório para você ver.</p>
+  </section>
+
+  <section>
+    <h2>Minhas garantias</h2>
+    <div class="garantias">
+      <div><b>Tudo fica no seu nome.</b><span>O Google, o site, o endereço e as artes são seus. Eu entro como gerente, sem senha. Se um dia parar, você leva tudo e não depende de ninguém.</span></div>
+      <div><b>Sem fidelidade.</b><span>A mensalidade pode ser cancelada quando você quiser, com um aviso pelo WhatsApp.</span></div>
+      <div><b>O Google arrumado em 7 dias, ou devolvo o valor.</b><span>Se o que está combinado aqui não estiver feito no prazo, você recebe de volta o que pagou pela implantação. (Remoção de foto de cliente depende do Google, por isso entra como pedido feito, não como garantia.)</span></div>
+      <div><b>Você vê antes de pagar o resto.</b><span>Metade no começo e metade só quando tudo estiver no ar e você aprovar.</span></div>
+      <div><b>Moro aqui do lado.</b><span>Sou do Jardim Botânico. Se precisar, passo na loja.</span></div>
+    </div>
   </section>
 
   <section>
     <h2>Como funciona</h2>
     <ol class="passos">
-      <li>Vocês escolhem o plano e pagam metade da implantação por Pix.</li>
-      <li>Me mandam fotos da loja e a lista de serviços com preços (se quiserem mostrar).</li>
-      <li>Em até 3 dias a página está no ar e o Google corrigido. Vocês me adicionam como gerente do perfil, sem precisar passar senha.</li>
-      <li>Pagam a outra metade quando estiver tudo no ar. A mensalidade começa no mês seguinte.</li>
+      <li>Você escolhe a opção e paga metade da implantação por Pix.</li>
+      <li>Me manda pelo WhatsApp umas 10 fotos da loja, dos banhos e do Táxi Dog, e a lista de serviços.</li>
+      <li>Você me adiciona como gerente no Google e no Instagram, direto pelo seu celular, sem me passar senha. Eu te ajudo na hora.</li>
+      <li>Em até 7 dias está tudo no ar. Você confere, aprova e paga a outra metade. A mensalidade começa no mês seguinte.</li>
     </ol>
   </section>
 </main>
