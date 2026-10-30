@@ -6,7 +6,12 @@
   "titulo_fotos": "O lava jato",
   "nota": "4,8",
   "avaliacoes": 95,
-  "temas": [],
+  "temas": [
+    "serviço bem feito",
+    "preço justo",
+    "câmeras de segurança",
+    "carro pronto no mesmo dia"
+  ],
   "telefone": "5561994116173",
   "whatsapp": true,
   "endereco": "Quadra 1 Conjunto 10 Lote 16 PRODF · São Sebastião · Brasília-DF, 71698-028",
@@ -25,7 +30,11 @@
       "Fechado"
     ]
   ],
-  "servicos": [],
+  "servicos": [
+    "Lavagem completa",
+    "Lavagem de bancos de tecido"
+  ],
   "dono": "Arthur Brisola",
-  "cor": "#0369a1"
+  "cor": "#0369a1",
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar uma lavagem."
 }

@@ -1,0 +1,37 @@
+{
+  "empresa": "Villela Mármores",
+  "categoria": "Marmoraria",
+  "bairro": "Vicente Pires",
+  "local": "em Vicente Pires",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "4,4",
+  "avaliacoes": 111,
+  "temas": [
+    "instalação caprichada",
+    "bom produto",
+    "atendimento"
+  ],
+  "telefone": "5561984732244",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "St. Hab. Vicente Pires, Rua 10B · Vicente Pires · Brasília-DF, 72007-235",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Villela+M%C3%A1rmores+Vicente+Pires",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ]
+  ],
+  "servicos": [
+    "Bancadas de cozinha",
+    "Ilhas",
+    "Peitoris",
+    "Instalação das pedras"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#8a6d3b"
+}

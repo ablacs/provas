@@ -6,7 +6,11 @@
   "titulo_fotos": "A clínica",
   "nota": "4,9",
   "avaliacoes": 54,
-  "temas": [],
+  "temas": [
+    "carinho com os pets",
+    "equipe atenciosa",
+    "profissionalismo"
+  ],
   "telefone": "5561992509965",
   "whatsapp": true,
   "endereco": "Polo de Artesanato - Loja 20 B · Jardim Botânico · Brasília-DF, 71679-600",
@@ -25,7 +29,10 @@
       "Fechado"
     ]
   ],
-  "servicos": [],
+  "servicos": [
+    "Consulta veterinária",
+    "Banho"
+  ],
   "dono": "Arthur Brisola",
   "cor": "#15803d"
 }

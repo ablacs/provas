@@ -6,7 +6,11 @@
   "titulo_fotos": "A clínica",
   "nota": "4,8",
   "avaliacoes": 33,
-  "temas": [],
+  "temas": [
+    "dedicação",
+    "carinho",
+    "preço honesto"
+  ],
   "telefone": "5561996729093",
   "whatsapp": true,
   "endereco": "SH Estrada do Sol Residencial Itaipu · Jardim Botânico · Brasília-DF, 71680-374",
@@ -25,7 +29,10 @@
       "Fechado"
     ]
   ],
-  "servicos": [],
+  "servicos": [
+    "Clínica de pequenos animais",
+    "Atendimento a gatos"
+  ],
   "dono": "Arthur Brisola",
   "cor": "#0e7490"
 }

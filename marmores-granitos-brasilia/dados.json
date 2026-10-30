@@ -1,0 +1,31 @@
+{
+  "empresa": "Mármores e Granitos Brasília",
+  "categoria": "Marmoraria",
+  "bairro": "Vicente Pires",
+  "local": "em Vicente Pires",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "5,0",
+  "avaliacoes": 8,
+  "temas": [
+    "atendimento",
+    "pontualidade",
+    "trabalho caprichado"
+  ],
+  "telefone": "5561993164383",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "St. Hab. Vicente Pires · Vicente Pires · Brasília-DF, 72007-635",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=M%C3%A1rmores+e+Granitos+Bras%C3%ADlia+Vicente+Pires",
+  "horario": [
+    [
+      "Horário",
+      "a combinar com vocês"
+    ]
+  ],
+  "servicos": [
+    "Mármores",
+    "Granitos"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#5b6b7a"
+}
