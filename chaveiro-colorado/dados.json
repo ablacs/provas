@@ -1,0 +1,33 @@
+{
+  "empresa": "Chaveiro Colorado 24 horas",
+  "categoria": "Chaveiro 24 horas",
+  "bairro": "Sobradinho",
+  "local": "em Sobradinho",
+  "titulo_fotos": "O atendimento",
+  "nota": "4,9",
+  "avaliacoes": 254,
+  "temas": [
+    "rapidez",
+    "preço justo",
+    "atendimento 24 horas"
+  ],
+  "telefone": "5561993080479",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e preciso de um chaveiro.",
+  "endereco": "Balão do Colorado Entrada do Lago Oeste Quiosque - DF-001, Km-132 - Quiosque 1a · Sobradinho II · Brasília-DF, 73100-011",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Chaveiro%20Colorado%2024%20horas%20Bras%C3%ADlia&query_place_id=ChIJ484yBPM5WpMRbTKetdEtft4",
+  "horario": [
+    [
+      "Segunda a domingo",
+      "24 horas"
+    ]
+  ],
+  "servicos": [
+    "Chaves codificadas",
+    "Portão eletrônico",
+    "Fechadura digital",
+    "Abertura e cópia de chaves"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#b45309"
+}

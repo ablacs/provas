@@ -1,0 +1,40 @@
+{
+  "empresa": "Med Pet",
+  "categoria": "Clínica veterinária e pet shop",
+  "bairro": "Sinop",
+  "local": "em Sinop",
+  "titulo_fotos": "A clínica",
+  "nota": "4,7",
+  "avaliacoes": 195,
+  "temas": [
+    "atenção da equipe",
+    "explicações claras",
+    "carinho"
+  ],
+  "telefone": "5566999618080",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um horário.",
+  "endereco": "Av. das Itaúbas, 518 A · Jardim Celeste · Sinop-MT, 78556-710",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Med%20Pet%20Sinop&query_place_id=ChIJlxy_jVZ_p5MRo2oPP2PiukI",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "07:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "07:30 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Consulta veterinária",
+    "Exames",
+    "Banho e pet shop"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0f766e"
+}

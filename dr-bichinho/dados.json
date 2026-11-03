@@ -1,0 +1,38 @@
+{
+  "empresa": "Dr Bichinho",
+  "categoria": "Clínica veterinária e pet shop",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "A clínica",
+  "nota": "4,5",
+  "avaliacoes": 160,
+  "temas": [
+    "atendimento humanizado",
+    "carinho"
+  ],
+  "telefone": "5561994153361",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um horário.",
+  "endereco": "R. das Paineiras, 7 - Lj 7 · Águas Claras · Brasília-DF, 71929-180",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Dr%20Bichinho%20Bras%C3%ADlia&query_place_id=ChIJ3yVyk50zWpMRuo5mEYzDu20",
+  "horario": [
+    [
+      "Segunda",
+      "Fechado"
+    ],
+    [
+      "Terça a sábado",
+      "09:00 às 18:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Consulta veterinária",
+    "Banho e tosa"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#2563eb"
+}

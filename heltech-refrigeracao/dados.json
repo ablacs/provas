@@ -1,0 +1,41 @@
+{
+  "empresa": "Heltech Refrigeração",
+  "categoria": "Conserto de máquina de lavar, geladeira e freezer",
+  "bairro": "Sobradinho",
+  "local": "em Sobradinho",
+  "titulo_fotos": "Os serviços",
+  "nota": "5,0",
+  "avaliacoes": 443,
+  "temas": [
+    "honestidade",
+    "conserto no mesmo dia",
+    "orçamento justo"
+  ],
+  "telefone": "5561991838566",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento de conserto.",
+  "endereco": "Condomínio Vale das Acácias · Sobradinho II · Brasília-DF, 73070-056",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Heltech%20Refrigera%C3%A7%C3%A3o%20Bras%C3%ADlia&query_place_id=ChIJD9HknVxBWpMRWKRzFd95XfM",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Conserto de máquina de lavar",
+    "Conserto de geladeira e freezer",
+    "Conserto de micro-ondas",
+    "Venda de máquinas com garantia"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0284c7"
+}

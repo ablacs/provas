@@ -1,0 +1,31 @@
+{
+  "empresa": "The Potatos Petsitter e Hospedagem",
+  "categoria": "Petsitter e hospedagem",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "A hospedagem",
+  "nota": "4,9",
+  "avaliacoes": 220,
+  "temas": [
+    "carinho",
+    "envio de fotos",
+    "confiança"
+  ],
+  "telefone": "5561982256027",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria saber sobre hospedagem.",
+  "endereco": "Residencial Le Paysage - R. 34 Sul · Águas Claras · Brasília-DF, 71930-500",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=The%20Potatos%20Petsitter%20e%20Hospedagem%20Bras%C3%ADlia&query_place_id=ChIJ4b-VgvQzWpMRNtZf4LK4kSU",
+  "horario": [
+    [
+      "Segunda a domingo",
+      "24 horas"
+    ]
+  ],
+  "servicos": [
+    "Hospedagem de cães e gatos",
+    "Petsitter"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#7c3aed"
+}

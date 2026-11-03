@@ -1,0 +1,40 @@
+{
+  "empresa": "Vidrosantos Vidraçaria",
+  "categoria": "Vidraçaria",
+  "bairro": "Taguatinga",
+  "local": "em Taguatinga",
+  "titulo_fotos": "Os trabalhos",
+  "nota": "4,7",
+  "avaliacoes": 24,
+  "temas": [
+    "capricho no acabamento",
+    "agilidade",
+    "preço"
+  ],
+  "telefone": "5561998087184",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento.",
+  "endereco": "St. B Norte QNB 10 · Taguatinga · Brasília-DF, 72115-100",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Vidrosantos%20Vidra%C3%A7aria%20Bras%C3%ADlia&query_place_id=ChIJSentyggzWpMR2pz1OzGxQMg",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "07:30 às 18:00"
+    ],
+    [
+      "Sábado",
+      "Fechado"
+    ],
+    [
+      "Domingo",
+      "09:00 às 17:00"
+    ]
+  ],
+  "servicos": [
+    "Vidro temperado (blindex)",
+    "Box de banheiro",
+    "Instalação"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#475569"
+}

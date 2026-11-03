@@ -1,0 +1,36 @@
+{
+  "empresa": "Buffet Don Giuliano",
+  "categoria": "Buffet para festas e eventos",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "As festas",
+  "nota": "4,7",
+  "avaliacoes": 42,
+  "temas": [
+    "comida de qualidade",
+    "pontualidade",
+    "equipe simpática"
+  ],
+  "telefone": "5561999832814",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento de buffet.",
+  "endereco": "Col. Agrícola Águas Claras · Guará · Brasília-DF, 70297-400",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Buffet%20Don%20Giuliano%20Bras%C3%ADlia&query_place_id=ChIJqyTBg98tWpMRXqumBHReDhM",
+  "horario": [
+    [
+      "Segunda",
+      "Fechado"
+    ],
+    [
+      "Terça a domingo",
+      "09:00 às 17:00"
+    ]
+  ],
+  "servicos": [
+    "Buffet infantil",
+    "Buffet para casamento e aniversário",
+    "Festas temáticas"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#b91c1c"
+}

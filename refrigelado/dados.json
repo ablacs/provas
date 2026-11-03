@@ -1,0 +1,40 @@
+{
+  "empresa": "Refrigelado",
+  "categoria": "Instalação e manutenção de ar-condicionado",
+  "bairro": "Gama",
+  "local": "no Gama",
+  "titulo_fotos": "Os serviços",
+  "nota": "4,9",
+  "avaliacoes": 66,
+  "temas": [
+    "técnicos experientes",
+    "rapidez",
+    "honestidade"
+  ],
+  "telefone": "5561992140369",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento.",
+  "endereco": "St. Sul Quadra 05 grade branca, conjunto h casa 25 · Gama · Brasília-DF, 72410-308",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Refrigelado%20Bras%C3%ADlia&query_place_id=ChIJx5GiDleBWZMRJS_AObIIc80",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 13:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Instalação de ar-condicionado",
+    "Manutenção de ar-condicionado",
+    "Conserto de inverter"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0369a1"
+}

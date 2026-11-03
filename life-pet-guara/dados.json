@@ -1,0 +1,41 @@
+{
+  "empresa": "Life Pet",
+  "categoria": "Pet shop, banho e tosa",
+  "bairro": "Guará",
+  "local": "no Guará",
+  "titulo_fotos": "O pet shop",
+  "nota": "4,8",
+  "avaliacoes": 165,
+  "temas": [
+    "paciência com pets ansiosos",
+    "carinho",
+    "atendimento"
+  ],
+  "telefone": "5561981313096",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um banho.",
+  "endereco": "Guará II QE 40 AREA ESPECIAL 6A lote 02 · Guará · Brasília-DF, 71070-406",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Life%20Pet%20Bras%C3%ADlia&query_place_id=ChIJNSfcWzsuWpMRyroYWiSSWVA",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 17:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 13:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Banho",
+    "Tosa",
+    "Rações",
+    "Táxi Dog"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#db2777"
+}

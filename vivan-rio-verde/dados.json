@@ -1,0 +1,31 @@
+{
+  "empresa": "Vivan Centro Veterinário",
+  "categoria": "Centro veterinário 24 horas",
+  "bairro": "Rio Verde",
+  "local": "em Rio Verde",
+  "titulo_fotos": "O centro veterinário",
+  "nota": "4,9",
+  "avaliacoes": 106,
+  "temas": [
+    "acolhimento",
+    "equipe dedicada",
+    "cuidado com pets idosos"
+  ],
+  "telefone": "5564981143985",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um horário.",
+  "endereco": "R. Cel. Vaiano, 616 · Centro · Rio Verde-GO, 75901-190",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Vivan%20Centro%20Veterin%C3%A1rio%20Rio%20Verde&query_place_id=ChIJ2z58jAjdYZMRCWK5sRYAPJE",
+  "horario": [
+    [
+      "Segunda a domingo",
+      "24 horas"
+    ]
+  ],
+  "servicos": [
+    "Atendimento 24 horas",
+    "Consulta veterinária"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#7c2d12"
+}

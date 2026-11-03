@@ -1,0 +1,36 @@
+{
+  "empresa": "Patrulha Pet Resort",
+  "categoria": "Hotel e creche para cães",
+  "bairro": "Park Way",
+  "local": "no Park Way",
+  "titulo_fotos": "O resort",
+  "nota": "4,8",
+  "avaliacoes": 285,
+  "temas": [
+    "carinho",
+    "acompanhamento diário",
+    "cães de grande porte"
+  ],
+  "telefone": "5561981303884",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria saber sobre hospedagem.",
+  "endereco": "SMPW, Q 4 CONJ 2 CH 21C · Park Way · Brasília-DF, 71735-306",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Patrulha%20Pet%20Resort%20Bras%C3%ADlia&query_place_id=ChIJ7SuaFGkuWpMR_rYBdaBf19w",
+  "horario": [
+    [
+      "Segunda a sábado",
+      "07:00 às 19:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Hospedagem para cães",
+    "Creche",
+    "Acompanhamento diário com fotos e vídeos"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#15803d"
+}

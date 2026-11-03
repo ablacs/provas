@@ -1,0 +1,35 @@
+{
+  "empresa": "Off Dedetizadora",
+  "categoria": "Dedetizadora",
+  "bairro": "Recanto das Emas",
+  "local": "no Recanto das Emas",
+  "titulo_fotos": "Os serviços",
+  "nota": "5,0",
+  "avaliacoes": 148,
+  "temas": [
+    "profissionalismo",
+    "resolve o problema",
+    "atendimento"
+  ],
+  "telefone": "5561995965504",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento de dedetização.",
+  "endereco": "Q 302 · Recanto das Emas · Brasília-DF, 72620-300",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Off%20Dedetizadora%20Bras%C3%ADlia&query_place_id=ChIJU0JoIsfTW5MRC7w8-2cfPLY",
+  "horario": [
+    [
+      "Segunda a sábado",
+      "06:00 às 00:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Dedetização",
+    "Limpeza de caixa d'água"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#16a34a"
+}

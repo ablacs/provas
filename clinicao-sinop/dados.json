@@ -1,0 +1,38 @@
+{
+  "empresa": "Clinicão",
+  "categoria": "Clínica veterinária",
+  "bairro": "Sinop",
+  "local": "em Sinop",
+  "titulo_fotos": "A clínica",
+  "nota": "4,8",
+  "avaliacoes": 160,
+  "temas": [
+    "carinho",
+    "consulta cuidadosa",
+    "confiança de anos"
+  ],
+  "telefone": "5566981157774",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar uma consulta.",
+  "endereco": "Av. das Figueiras, 979 · Setor Comercial · Sinop-MT, 78550-270",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Clinic%C3%A3o%20Sinop&query_place_id=ChIJ5x3qkvd_p5MR4okxXVC0xKE",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "07:30 às 11:30 e 13:30 às 18:00"
+    ],
+    [
+      "Sábado",
+      "07:30 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Consulta veterinária"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#1d4ed8"
+}

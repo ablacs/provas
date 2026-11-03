@@ -1,0 +1,40 @@
+{
+  "empresa": "D'Lauras Móveis Planejados",
+  "categoria": "Móveis planejados",
+  "bairro": "Palmas",
+  "local": "em Palmas",
+  "titulo_fotos": "Os projetos",
+  "nota": "4,9",
+  "avaliacoes": 68,
+  "temas": [
+    "entrega antes do prazo",
+    "acabamento",
+    "preço justo"
+  ],
+  "telefone": "5563992064364",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento de móveis planejados.",
+  "endereco": "QUADRA 903 Sul, Alameda 19, QD 14 · Plano Diretor Sul · Palmas-TO, 77017-278",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=D%27Lauras%20M%C3%B3veis%20Planejados%20Palmas&query_place_id=ChIJIUuVQOc1O5MRvSWa3d3BYcY",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 12:00 e 14:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Móveis planejados",
+    "Ajuda no desenho do projeto",
+    "Entrega e montagem"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#92400e"
+}

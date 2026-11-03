@@ -1,0 +1,45 @@
+{
+  "empresa": "Dupet Park",
+  "categoria": "Hotel, creche e resort pet",
+  "bairro": "Vicente Pires",
+  "local": "em Vicente Pires",
+  "titulo_fotos": "O espaço",
+  "nota": "4,8",
+  "avaliacoes": 181,
+  "temas": [
+    "carinho",
+    "cães idosos bem cuidados",
+    "tranquilidade na viagem"
+  ],
+  "telefone": "5561992092141",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria saber sobre hospedagem.",
+  "endereco": "EPTG Frente Aguas claras, St. Hab. Vicente Pires trecho 3 Quadra Conjunto 4 lote 18 · Vicente Pires · Brasília-DF, 72001-030",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Dupet%20Park%20Bras%C3%ADlia&query_place_id=ChIJ1wDEmPLMW5MRnXsFk4lfoEA",
+  "horario": [
+    [
+      "Segunda",
+      "08:00 às 18:30"
+    ],
+    [
+      "Terça a sexta",
+      "08:00 às 19:00"
+    ],
+    [
+      "Sábado",
+      "09:00 às 13:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Hospedagem",
+    "Creche",
+    "Resort e playground pet",
+    "Consultório veterinário"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0e7490"
+}
