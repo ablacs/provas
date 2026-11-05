@@ -1,0 +1,36 @@
+{
+  "empresa": "Bella Vet Águas Claras",
+  "categoria": "Pet shop, banho e tosa",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "O pet shop",
+  "nota": "5,0",
+  "avaliacoes": 99,
+  "temas": [
+    "paciência com pets ansiosos",
+    "banho rápido, sem gaiola por muito tempo",
+    "acompanhar pelo vidro"
+  ],
+  "telefone": "5561981617508",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um banho.",
+  "endereco": "Ed. Real Panoramic, Av. Flamboyant, lote 24 - loja 23 · Águas Claras · Brasília-DF, 71917-000",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Bella%20Vet%20%C3%81guas%20Claras%20Bras%C3%ADlia&query_place_id=ChIJFaJ_p28zWpMRbrxjmGwlarg",
+  "horario": [
+    [
+      "Segunda a sábado",
+      "08:00 às 17:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Banho",
+    "Tosa",
+    "Pet shop"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#7c3aed"
+}

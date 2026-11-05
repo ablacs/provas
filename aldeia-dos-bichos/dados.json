@@ -1,0 +1,40 @@
+{
+  "empresa": "Aldeia dos Bichos",
+  "categoria": "Pet shop e veterinária",
+  "bairro": "Guará",
+  "local": "no Guará",
+  "titulo_fotos": "A clínica",
+  "nota": "4,6",
+  "avaliacoes": 134,
+  "temas": [
+    "atenção do Dr. Leonardo",
+    "confiança",
+    "explicações claras"
+  ],
+  "telefone": "5561991412313",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar uma consulta.",
+  "endereco": "Guará I QI 11 Bloco A Lj 36 · Guará · Brasília-DF, 71020-310",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Aldeia%20dos%20Bichos%20Bras%C3%ADlia&query_place_id=ChIJqx171rgxWpMRU0L10MnOos4",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:30 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Consulta veterinária",
+    "Banho e tosa",
+    "Pet shop"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#15803d"
+}

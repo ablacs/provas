@@ -1,0 +1,41 @@
+{
+  "empresa": "Império Refrigeração",
+  "categoria": "Conserto de geladeira e máquina de lavar",
+  "bairro": "Sobradinho",
+  "local": "em Sobradinho",
+  "titulo_fotos": "Os serviços",
+  "nota": "5,0",
+  "avaliacoes": 293,
+  "temas": [
+    "atendimento rápido",
+    "profissionalismo",
+    "preço justo"
+  ],
+  "telefone": "5561994148870",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria um orçamento de conserto.",
+  "endereco": "SH Contagem Condominío Rio Negro Módulo 4 Mod 4 casa 82 · SETOR HABITACIONAL CONTAGEM · Brasília-DF, 73093-900",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Imp%C3%A9rio%20Refrigera%C3%A7%C3%A3o%20Bras%C3%ADlia&query_place_id=ChIJrQzz41xHWpMRpPUubV69Lhk",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:30 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:30 às 13:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Conserto de geladeira",
+    "Conserto de máquina de lavar",
+    "Troca de motor de geladeira",
+    "Atendimento em casa"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0369a1"
+}

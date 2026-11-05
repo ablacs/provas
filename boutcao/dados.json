@@ -1,0 +1,40 @@
+{
+  "empresa": "Bout'Cão",
+  "categoria": "Banho e tosa",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "O espaço",
+  "nota": "4,7",
+  "avaliacoes": 97,
+  "temas": [
+    "carinho do Leginaldo",
+    "pets nervosos que ficam tranquilos",
+    "vídeos durante o banho"
+  ],
+  "telefone": "5561982881618",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um banho.",
+  "endereco": "R. 12 Norte, 3 - Loja 2 · Águas Claras · Brasília-DF, 71909-540",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Bout%27C%C3%A3o%20Bras%C3%ADlia&query_place_id=ChIJu-OfARMyWpMRogbQPdiT8bI",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 17:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 14:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Banho",
+    "Tosa",
+    "Cuidados especiais no banho"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#b45309"
+}

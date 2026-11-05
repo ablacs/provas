@@ -1,0 +1,40 @@
+{
+  "empresa": "Charlottes Petshop",
+  "categoria": "Pet shop, banho e tosa",
+  "bairro": "Águas Claras",
+  "local": "em Águas Claras",
+  "titulo_fotos": "O pet shop",
+  "nota": "4,7",
+  "avaliacoes": 132,
+  "temas": [
+    "cuidado com os pets",
+    "tosa caprichada",
+    "vidro para acompanhar o banho"
+  ],
+  "telefone": "5561981286585",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria agendar um banho.",
+  "endereco": "R. 30 Sul, Lote 7 - Loja 4 · Águas Claras · Brasília-DF, 71929-360",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Charlottes%20Petshop%20Bras%C3%ADlia&query_place_id=ChIJPZSBB2QyWpMRBjWD7Ol9Rqo",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:30 às 17:30"
+    ],
+    [
+      "Sábado",
+      "08:00 às 14:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Banho",
+    "Tosa",
+    "Produtos para pets"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#db2777"
+}
