@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Ponto Vet · Proposta</title>
+<style>
+  :root { --cor:#0e7490; --escuro:#16181d; --texto:#1d1f24; --mudo:#5d6270; --fundo:#f6f5f2; --cartao:#fff; --borda:#e4e2dc; --verde:#15803d; --alerta:#b45309; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--texto); background:var(--fundo); }
+  header { background:var(--escuro); color:#fff; padding:36px 20px 28px; }
+  header > div, main { max-width:760px; margin:0 auto; }
+  .faixa { width:48px; height:4px; background:var(--cor); border-radius:2px; margin-bottom:16px; }
+  h1 { font-size:clamp(1.6rem, 6vw, 2.3rem); line-height:1.15; margin:0 0 8px; }
+  header p { margin:0; color:#c9ccd4; }
+  main { padding:8px 20px 48px; }
+  section { margin-top:32px; }
+  h2 { font-size:1.2rem; margin:0 0 12px; }
+  .bom { display:flex; gap:10px; flex-wrap:wrap; }
+  .bom div { flex:1 1 140px; background:var(--cartao); border:1px solid var(--borda); border-radius:12px; padding:14px; }
+  .bom b { display:block; font-size:1.5rem; color:var(--verde); }
+  ol.problemas { padding:0; margin:0; list-style:none; counter-reset:p; display:grid; gap:10px; }
+  ol.problemas li { counter-increment:p; background:var(--cartao); border:1px solid var(--borda); border-left:4px solid var(--alerta); border-radius:10px; padding:14px 14px 14px 48px; position:relative; }
+  ol.problemas li::before { content:counter(p); position:absolute; left:14px; top:14px; width:24px; height:24px; border-radius:50%; background:var(--alerta); color:#fff; font-weight:700; font-size:.85rem; display:grid; place-items:center; }
+  ol.problemas b { display:block; }
+  ol.problemas span { color:var(--mudo); font-size:.93rem; }
+  .planos { display:grid; gap:12px; }
+  .plano { background:var(--cartao); border:1px solid var(--borda); border-radius:14px; padding:18px; position:relative; }
+  .plano.rec { border:2px solid var(--cor); }
+  .selo { position:absolute; top:-11px; left:16px; background:var(--cor); color:#fff; font-size:.75rem; font-weight:700; padding:2px 10px; border-radius:99px; }
+  .plano h3 { margin:0 0 4px; font-size:1.1rem; }
+  .plano .para { color:var(--mudo); font-size:.9rem; margin:0 0 8px; }
+  .preco { font-size:1.6rem; font-weight:800; }
+  .preco small { font-size:.95rem; font-weight:600; color:var(--mudo); }
+  .preco .antes { font-size:1.1rem; font-weight:600; color:var(--mudo); margin-right:4px; }
+  .zap { background:var(--cartao); border:1px solid var(--borda); border-left:4px solid var(--verde); border-radius:12px; padding:16px; margin-top:12px; }
+  .zap h3 { margin:0 0 4px; font-size:1.05rem; }
+  .zap .msg { background:#dcf8c6; color:#1d1f24; border-radius:10px 10px 10px 2px; padding:10px 12px; margin:10px 0; font-size:.95rem; max-width:420px; }
+  .zap ul { margin:8px 0 0; padding-left:20px; }
+  .plano ul { margin:12px 0 0; padding-left:20px; }
+  .plano li { margin:4px 0; }
+  .avulso { background:var(--cartao); border:1px dashed var(--borda); border-radius:12px; padding:14px 16px; margin-top:12px; }
+  .avulso p { margin:4px 0; }
+  .garantias { display:grid; gap:10px; }
+  .garantias div { background:var(--cartao); border:1px solid var(--borda); border-left:4px solid var(--verde); border-radius:10px; padding:12px 14px; }
+  .garantias b { display:block; }
+  .garantias span { color:var(--mudo); font-size:.93rem; }
+  .passos { counter-reset:s; padding:0; margin:0; list-style:none; display:grid; gap:8px; }
+  .passos li { counter-increment:s; background:var(--cartao); border:1px solid var(--borda); border-radius:10px; padding:12px 14px; }
+  .passos li::before { content:counter(s) ". "; font-weight:700; color:var(--cor); }
+  .nota { font-size:.88rem; color:var(--mudo); }
+  footer { text-align:center; font-size:.85rem; color:var(--mudo); padding:0 20px 40px; }
+  @media (min-width:720px) { .planos { grid-template-columns:repeat(3, 1fr); align-items:start; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="faixa"></div>
+    <h1>Rita, vocês cuidam dos bichinhos. Eu cuido de como a Ponto Vet aparece.</h1>
+    <p>Proposta para a Clínica Veterinária Ponto Vet · preparada por Arthur Brisola · 06/11/2026</p>
+  </div>
+</header>
+<main>
+  <section>
+    <h2>O que vocês já têm de melhor</h2>
+    <div class="bom">
+      <div><b>4,8 ★</b>com 34 avaliações no Google</div>
+      <div><b>Cirurgia</b>com anestesia inalatória, internação e exames</div>
+      <div><b>Site</b>próprio no ar: pontovetclinica.com.br</div>
+    </div>
+    <p class="nota">Os tutores elogiam a dedicação, o carinho e o preço honesto. Isso ninguém compra pronto. O que falta é a internet mostrar isso para quem procura veterinário aqui na região.</p>
+  </section>
+
+  <section>
+    <h2>O que eu encontrei (conferido em 06/11)</h2>
+    <ol class="problemas">
+      <li><b>O botão "Website" do Google está vazio.</b><span>Quem acha a Ponto Vet no Google não chega ao site de vocês.</span></li>
+      <li><b>O site não aparece nem quando alguém pesquisa o nome da clínica.</b><span>Pesquisando "Ponto Vet clínica veterinária Jardim Botânico", os primeiros resultados são de outras clínicas e de guias.</span></li>
+      <li><b>O arquivo que apresenta o site ao Google aponta para outro endereço.</b><span>O "mapa do site" lista as páginas de outra clínica (clinicanovaalianca.com.br), e não as da Ponto Vet. É um resto do modelo usado para montar o site, e atrapalha o Google a encontrar vocês.</span></li>
+      <li><b>O site não diz onde a clínica fica nem chama no WhatsApp.</b><span>A descrição que o Google lê é genérica ("Confira mais detalhes sobre a nossa atuação..."). Não tem "veterinário no Jardim Botânico", botão de WhatsApp nem link do Instagram.</span></li>
+      <li><b>Google e site dizem coisas diferentes.</b><span>O site fala em atendimento 24 horas e endereço "Condomínio Chácaras Itaipu, 23". O Google mostra 8h às 17h e "SH Estrada do Sol, Residencial Itaipu". Quando as informações não batem, o Google e o ChatGPT ficam em dúvida sobre qual mostrar.</span></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Três formas de eu te ajudar</h2>
+    <div class="planos">
+      <div class="plano rec">
+        <span class="selo">Para começar</span>
+        <h3>Google arrumado</h3>
+        <p class="para">O primeiro passo, sem mensalidade.</p>
+        <div class="preco">R$150 <small>uma vez</small></div>
+        <ul>
+          <li>Perfil do Google confirmado no nome da clínica, com o site no botão "Website"</li>
+          <li>Serviços completos: consultas, cirurgias, internação, exames, banho e tosa, pet shop</li>
+          <li>Descrição dizendo que é veterinário no Jardim Botânico, horário certo e telefone de emergência</li>
+          <li>Fotos da clínica e resposta às avaliações sem resposta</li>
+          <li>QR code de avaliação para o balcão</li>
+        </ul>
+      </div>
+      <div class="plano">
+        <h3>Presença digital</h3>
+        <p class="para">Google, site e ChatGPT sempre em dia. Você não precisa pensar nisso.</p>
+        <div class="preco">R$800 <small>+ R$200/mês</small></div>
+        <ul>
+          <li>Tudo do "Google arrumado"</li>
+          <li>Site corrigido: mapa do site, descrição, WhatsApp, Instagram e as mesmas informações do Google (feito junto com quem tem o acesso ao site)</li>
+          <li>Mesmas informações no Apple Maps, Bing, Waze e guias</li>
+          <li>Perguntas frequentes com respostas claras, que o Google e o ChatGPT usam para responder quem pergunta</li>
+          <li>WhatsApp Business com mensagem de boas-vindas e de fora do horário</li>
+          <li>Todo mês: 4 posts no Google, resposta a todas as avaliações e relatório com ligações, pedidos de rota e cliques, mais o teste no ChatGPT</li>
+        </ul>
+      </div>
+      <div class="plano">
+        <h3>Presença + Instagram</h3>
+        <p class="para">Tudo comigo. Vocês só mandam as fotos.</p>
+        <div class="preco">R$800 <small>+ R$550/mês</small></div>
+        <ul>
+          <li>Tudo da "Presença digital"</li>
+          <li>Instagram: 12 posts por mês, com legenda</li>
+          <li>3 artes por semana para o status do WhatsApp (vacinação, castração, datas especiais)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="avulso">
+      <p><b>Separado:</b> WhatsApp respondendo na hora (boas-vindas, fora do horário e respostas prontas), <b>R$200</b> uma vez. Artes para o status, 3 por semana, <b>R$200/mês</b>.</p>
+    </div>
+    <p class="nota">Não prometo primeira posição no Google nem número de clientes, porque ninguém consegue garantir isso. O que eu garanto é o trabalho feito e os números no relatório para você ver. Nos posts, sigo as regras do CFMV: sem antes e depois e sem foto de paciente sem autorização do tutor.</p>
+  </section>
+
+  <section>
+    <h2>Minhas garantias</h2>
+    <div class="garantias">
+      <div><b>Tudo fica no nome da clínica.</b><span>O Google, o site e o Instagram são de vocês. Eu entro como gerente, sem senha. Se um dia parar, vocês continuam com tudo.</span></div>
+      <div><b>Sem fidelidade.</b><span>A mensalidade pode ser cancelada quando quiser, com um aviso pelo WhatsApp.</span></div>
+      <div><b>Você vê antes de pagar o resto.</b><span>Metade no começo e metade só quando estiver tudo pronto e você aprovar.</span></div>
+      <div><b>Moro aqui do lado.</b><span>Sou do Jardim Botânico. Se precisar, passo na clínica.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Como funciona</h2>
+    <ol class="passos">
+      <li>Você escolhe a opção e paga metade por Pix.</li>
+      <li>Me adiciona como gerente do perfil do Google, pelo seu celular, sem me passar senha. Eu te ajudo na hora.</li>
+      <li>Me manda umas 10 fotos da clínica e confirma os serviços e o horário.</li>
+      <li>Em até 7 dias está pronto. Você confere, aprova e paga a outra metade. A mensalidade, se tiver, começa no mês seguinte.</li>
+    </ol>
+  </section>
+</main>
+<footer>Arthur Brisola · morador do Jardim Botânico · Brasília</footer>
+</body>
+</html>
