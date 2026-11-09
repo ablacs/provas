@@ -1,0 +1,40 @@
+{
+  "empresa": "Elvis Chaveiro",
+  "categoria": "Chaveiro",
+  "bairro": "Sobradinho",
+  "local": "em Sobradinho",
+  "titulo_fotos": "A loja",
+  "nota": "4,9",
+  "avaliacoes": 54,
+  "temas": [
+    "atendimento rápido",
+    "preço justo",
+    "honestidade"
+  ],
+  "telefone": "5561983584125",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e preciso de um chaveiro.",
+  "endereco": "Quadra 08 Ao lado do ponto de táxi, Bloco 01 Lote 07 Loja 1A · Sobradinho · Brasília-DF, 73005501",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Elvis%20Chaveiro%20Bras%C3%ADlia&query_place_id=ChIJA3o5yWA_WpMRuSHGdUb0OIE",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:30 às 17:30"
+    ],
+    [
+      "Sábado",
+      "08:30 às 13:30"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Chaves de carro",
+    "Serviços de chaveiro",
+    "Atendimento na loja"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#b45309"
+}

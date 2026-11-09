@@ -1,0 +1,40 @@
+{
+  "empresa": "JS Ar Condicionado",
+  "categoria": "Instalação e higienização de ar-condicionado",
+  "bairro": "Recanto das Emas",
+  "local": "no Recanto das Emas",
+  "titulo_fotos": "Os serviços",
+  "nota": "4,9",
+  "avaliacoes": 66,
+  "temas": [
+    "trabalho do Sr. José",
+    "serviço honesto e cuidadoso",
+    "local limpo depois do serviço"
+  ],
+  "telefone": "5561984138729",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "PqEAT Conj 6 Lote 13 · Recanto das Emas · Brasília-DF, 72600-106",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=JS%20Ar%20Condicionado%20Bras%C3%ADlia&query_place_id=ChIJyazyq705WpMRVCgISoAK8YE",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado",
+      "08:00 às 12:00"
+    ],
+    [
+      "Domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Instalação de ar-condicionado split",
+    "Manutenção",
+    "Higienização completa"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#1d4ed8"
+}

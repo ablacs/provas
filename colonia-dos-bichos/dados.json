@@ -1,0 +1,32 @@
+{
+  "empresa": "Colônia dos Bichos",
+  "categoria": "Hotel para cães",
+  "bairro": "Park Way",
+  "local": "no Park Way",
+  "titulo_fotos": "O espaço",
+  "nota": "5,0",
+  "avaliacoes": 73,
+  "temas": [
+    "carinho da Jane",
+    "espaço amplo, com cães soltos",
+    "fotos e vídeos durante a estadia"
+  ],
+  "telefone": "5561984194117",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria reservar uma hospedagem.",
+  "endereco": "SMPW, Q. 05 Conjunto B, 08 · Park Way · Brasília-DF, 71735-508",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Col%C3%B4nia%20dos%20Bichos%20Bras%C3%ADlia&query_place_id=ChIJhfU_9GjJW5MRS6df2MAirfQ",
+  "horario": [
+    [
+      "Segunda a domingo",
+      "08:30 às 18:00"
+    ]
+  ],
+  "servicos": [
+    "Hospedagem para cães",
+    "Espaço amplo com gramado",
+    "Fotos e vídeos durante a estadia"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#15803d"
+}

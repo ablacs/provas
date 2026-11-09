@@ -1,0 +1,32 @@
+{
+  "empresa": "Atlas Vet",
+  "categoria": "Centro clínico veterinário 24 horas",
+  "bairro": "Guará",
+  "local": "no Guará",
+  "titulo_fotos": "A clínica",
+  "nota": "4,8",
+  "avaliacoes": 73,
+  "temas": [
+    "carinho da equipe",
+    "tutores bem orientados",
+    "atenção da Dra. Hellen"
+  ],
+  "telefone": "5561998705587",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria marcar uma consulta.",
+  "endereco": "Setor de Mansões IAPI, Guará II Chácara 17b loja 2 · Guará · Brasília-DF, 71030-700",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Atlas%20Vet%20Bras%C3%ADlia&query_place_id=ChIJu0L2wscrWpMR-l2LdEj3H2M",
+  "horario": [
+    [
+      "Segunda a domingo",
+      "24 horas"
+    ]
+  ],
+  "servicos": [
+    "Atendimento veterinário 24 horas",
+    "Emergências",
+    "Consultas"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0e7490"
+}

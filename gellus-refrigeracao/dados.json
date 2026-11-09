@@ -1,0 +1,37 @@
+{
+  "empresa": "Gellu's Refrigeração",
+  "categoria": "Ar-condicionado e refrigeração",
+  "bairro": "Sobradinho",
+  "local": "em Sobradinho",
+  "titulo_fotos": "Os serviços",
+  "nota": "5,0",
+  "avaliacoes": 90,
+  "temas": [
+    "atendimento do Rafael",
+    "serviço explicado sem enrolação",
+    "preço justo"
+  ],
+  "telefone": "5561982395508",
+  "whatsapp": true,
+  "texto_whatsapp": "Olá! Vi a página de vocês e queria pedir um orçamento.",
+  "endereco": "SH Contagem Condominío Vila Verde conjunto \"A casa 10 · Sobradinho II · Brasília-DF, 73090-914",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Gellu%27s%20Refrigera%C3%A7%C3%A3o%20Bras%C3%ADlia&query_place_id=ChIJs52SENhBWpMRng-ig3hy_Eg",
+  "horario": [
+    [
+      "Segunda a sexta",
+      "08:00 às 18:00"
+    ],
+    [
+      "Sábado a domingo",
+      "Fechado"
+    ]
+  ],
+  "servicos": [
+    "Instalação de ar-condicionado",
+    "Limpeza de ar-condicionado",
+    "Conserto de refrigeradores",
+    "Conserto de cervejeira"
+  ],
+  "dono": "Arthur Brisola",
+  "cor": "#0369a1"
+}
